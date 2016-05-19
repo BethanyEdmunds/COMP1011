@@ -1,0 +1,13 @@
+---
+title: 'Course Welcome'
+date: 05/15/2016
+published: true
+---
+
+Welcome to the multi-device friendly course hub for COMP1011 Spring 2016. To help orientate yourself to the course, 
+please explore the [course outline](http://www.bcit.ca/study/outlines/20162063976).
+
+Any required preparations before each class will be posted here by Thursday of the previous week. 
+
+Please send your comments and feedback to <Bethany_Edmunds@bcit.ca>.
+
